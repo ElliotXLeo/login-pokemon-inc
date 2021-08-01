@@ -26,7 +26,7 @@ $('#formLogin').submit((e) => {
             confirmButtonText: 'Ingresar'
           }).then((result) => {
             if (result.value) {
-              window.location.href = './views/inicio.php';
+              window.location.href = './views/inicio-admin.php';
             }
           });
           ;
