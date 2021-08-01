@@ -4,7 +4,10 @@
 }
 
 .body {
-  background: linear-gradient(to right, #11998E, #38EF7D);
+  background: linear-gradient(to right, #18a4a9, #235edd);
+  /* background: linear-gradient(to right, #0ab4ba, #1164bd); */
+  /* background: linear-gradient(to right, turquoise, dodgerblue); */
+  /* background: linear-gradient(to right, turquoise, royalblue); */
   color: black;
 }
 
