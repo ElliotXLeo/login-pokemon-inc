@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  background: linear-gradient(to right, #11998E, #38EF7D);
+  color: black;
+}
+
+.contenedor {
+  background: white;
+  margin: auto;
+  padding: 1em;
+  width: 80%;
+  box-shadow: 0.1em 0.1em 0.1em 0.1em black;
+  border-radius: 0.5em;
+}
