@@ -1,6 +1,6 @@
 'use strict';
 const documentoListo = () => {
-  const endpoint = 'http://localhost/projects/login-pokemon-inc/backend/models/Login.php';
+  const endpoint = '../backend/models/Login.php';
   const loginForm = document.querySelector('#loginForm');
 
   const consultarApi = async (e) => {

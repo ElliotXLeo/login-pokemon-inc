@@ -1,6 +1,6 @@
-# [Login Pokémon Inc](https://elliotgaramendi.000webhostapp.com/app/login-pokemon-inc/frontend/) | [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20"/>](https://www.linkedin.com/in/elliotgaramendi/) | [<img src="https://image.flaticon.com/icons/png/512/733/733553.png" height="20"/>](https://github.com/ElliotXLeo) | [<img src="https://image.flaticon.com/icons/png/512/145/145802.png" height="20"/>](https://www.facebook.com/elliotgaramendi) | [<img src="https://image.flaticon.com/icons/png/512/1384/1384055.png" height="20"/>](https://api.whatsapp.com/send?phone=51997045329) | [<img src="https://image.flaticon.com/icons/png/512/975/975645.png" height="20"/>](https://nextjs-react-portafolio-fc.vercel.app) | [<img src="https://image.flaticon.com/icons/png/512/5439/5439199.png" height="20"/>](mailto:elliotgaramendi@gmail.com) | 
+# [Login Pokémon Inc](https://elliotgaramendi.000webhostapp.com/app/login-pokemon-inc/) | [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20"/>](https://www.linkedin.com/in/elliotgaramendi/) | [<img src="https://image.flaticon.com/icons/png/512/733/733553.png" height="20"/>](https://github.com/ElliotXLeo) | [<img src="https://image.flaticon.com/icons/png/512/145/145802.png" height="20"/>](https://www.facebook.com/elliotgaramendi) | [<img src="https://image.flaticon.com/icons/png/512/1384/1384055.png" height="20"/>](https://api.whatsapp.com/send?phone=51997045329) | [<img src="https://image.flaticon.com/icons/png/512/975/975645.png" height="20"/>](https://nextjs-react-portafolio-fc.vercel.app) | [<img src="https://image.flaticon.com/icons/png/512/5439/5439199.png" height="20"/>](mailto:elliotgaramendi@gmail.com) | 
 
-[![login-pokemon-inc](https://i.postimg.cc/BZ1MZDLz/login-pokemon-inc.png)](https://elliotgaramendi.000webhostapp.com/app/login-pokemon-inc/frontend/)
+[![login-pokemon-inc](https://i.postimg.cc/BZ1MZDLz/login-pokemon-inc.png)](https://elliotgaramendi.000webhostapp.com/app/login-pokemon-inc/)
 
 ## Resumen
 Aplicación Web donde puedes iniciar sesión con usuarios registrados. La aplicación emplea MySQL como motor de base de datos, PHP de lado del Backend y HTML, CSS, JS Y PHP de lado del Frontend.
@@ -23,7 +23,7 @@ Aplicación Web donde puedes iniciar sesión con usuarios registrados. La aplica
   - Crear la tabla develop
   - Usar la base de datos creada
   - Importar el script develop.sql
-    - ./base-de-datos
+    - /database
 
 - Aplicación
   - Abrir un cliente web
