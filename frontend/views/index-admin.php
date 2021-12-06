@@ -17,7 +17,7 @@ if (isset($_SESSION['idUser'])) {
 ?>
 
 <?php
-$titulo = 'Pokemon Inc Admin';
+$titulo = 'Login Pokémon Inc Admin';
 require_once './components/index-apertura.php';
 ?>
 
